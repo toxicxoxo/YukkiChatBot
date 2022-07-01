@@ -1,7 +1,7 @@
 {
     "name": "Yukki Chat Bot",
     "description": "A simple Chat-Bot written in Pyrogram using MongoDB",
-    "logo": "https://telegra.ph/file/78bc88b883b22024002cd.jpg",
+    "logo": "https://telegra.ph/file/1dfada489528335e50d1c.png",
     "keywords": [
       "yukki",
       "mongodb",
@@ -17,7 +17,7 @@
         "size": "free"
       }
     },
-    "repository": "https://github.com/TeamYukki/YukkiChatBot",
+    "repository": "https://github.com/toxicxoxo/YukkiChatBot",
     "env": {
       "API_ID": {
         "description": "Get this value from my.telegram.org/apps.",
